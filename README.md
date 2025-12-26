@@ -1,5 +1,8 @@
 ##🚀 Fullstack User Control System (RBAC)
 
+<img width="1912" height="957" alt="image" src="https://github.com/user-attachments/assets/640b301f-6f50-4dbe-95b7-31ab543661c4" />
+
+
 
 
 <img width="1917" height="945" alt="image" src="https://github.com/user-attachments/assets/590c5e4c-e8c3-4115-9d78-8c17eaa66d0f" />
