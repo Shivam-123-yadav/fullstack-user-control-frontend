@@ -33,25 +33,18 @@ nav {
   background-clip: text;
   transition: all 0.3s ease;
   position: relative;
+  display: flex;
+  align-items: center;
 }
 
-.navbar-brand:hover {
+.navbar-logo {
+  height: 40px;
+  width: auto;
+  transition: all 0.3s ease;
+}
+
+.navbar-brand:hover .navbar-logo {
   transform: scale(1.05);
-}
-
-.navbar-brand::after {
-  content: '';
-  position: absolute;
-  bottom: -5px;
-  left: 0;
-  width: 0;
-  height: 2px;
-  background: linear-gradient(135deg, #667eea, #764ba2);
-  transition: width 0.3s ease;
-}
-
-.navbar-brand:hover::after {
-  width: 100%;
 }
 
 .navbar-links {

@@ -31,7 +31,7 @@ const Navbar = () => {
     <nav className={isScrolled ? 'scrolled' : ''}>
       <div className="navbar-container">
         <Link to="/dashboard" className="navbar-brand" onClick={closeMenu}>
-          MyApp
+          <img src="/logo.png" alt="Fullstack User Control System" className="navbar-logo" />
         </Link>
 
         <div className={`navbar-links ${isMenuOpen ? 'active' : ''}`}>
