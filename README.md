@@ -5,9 +5,6 @@
 
 
 
-<img width="1917" height="945" alt="image" src="https://github.com/user-attachments/assets/590c5e4c-e8c3-4115-9d78-8c17eaa66d0f" />
-
-
 
 A production-ready full-stack web application built using React and Django, implementing Role-Based Access Control (RBAC) with secure authentication, protected routes, and an admin dashboard.
 
@@ -23,6 +20,10 @@ A production-ready full-stack web application built using React and Django, impl
 ✅ Clean & Modular Frontend
 ✅ Admin Panel for User Management
 ✅ Production-Ready Structure
+
+
+<img width="1917" height="945" alt="image" src="https://github.com/user-attachments/assets/590c5e4c-e8c3-4115-9d78-8c17eaa66d0f" />
+
 
 🧩 Features Overview
 🔐 Authentication & Security
