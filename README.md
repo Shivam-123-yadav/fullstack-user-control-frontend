@@ -36,6 +36,10 @@ Secure password handling
 
 Token-based API access
 
+
+![Uploading image.png…]()
+
+
 👥 Role Management
 Role	Permissions
 Admin	Full system access, manage users & roles
