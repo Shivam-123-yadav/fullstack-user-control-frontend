@@ -36,8 +36,8 @@ Secure password handling
 
 Token-based API access
 
+<img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/6b5e4ca9-292f-475d-9c10-7f0f98a96e7d" />
 
-![Uploading image.png…]()
 
 
 👥 Role Management
