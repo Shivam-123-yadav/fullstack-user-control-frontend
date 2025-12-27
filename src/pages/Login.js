@@ -2,6 +2,10 @@ import React, { useState, useContext } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import { AuthContext } from '../context/AuthContext';
 import './Auth.css';
+import API_URL from "../config";
+
+axios.get(`${API_URL}/api/login/`)
+
 
 const Login = () => {
   const [username, setUsername] = useState('');
